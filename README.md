@@ -1,3 +1,18 @@
+Your Notes Here
+Add a new toy when the toy form is submitted
+typo in controller
+How I debugged: check network, check server logs, make sure path is there
+Update the number of likes for a toy
+update not returning json: toy
+How I debugged: 
+Donate a toy to Goodwill (and delete it from our database)
+destory route added
+How I debugged: 
+
+
+
+
+
 # Putting it All Together: Client-Server Communication
 
 ## Learning Goals
